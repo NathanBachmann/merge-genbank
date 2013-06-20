@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 #Written by Bryan Wee
 
+#Github change test
+
 =comment
 
 Each genbank file must have ONLY ONE source feature from start to end. The sources will be converted to fasta_record and will look like a contig in the final merged genbank file.
